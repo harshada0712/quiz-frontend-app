@@ -4,7 +4,7 @@ A modern, responsive quiz application built with Next.js, React, and Tailwind CS
 
 ## 🔗 Live Demo
 
-**Deployed URL:** https://your-vercel-app.vercel.app
+**Deployed URL:** https://v0-quiz-frontend-code.vercel.app/
 
 ## 🚀 Tech Stack
 
